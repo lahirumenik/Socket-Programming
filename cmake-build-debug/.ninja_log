@@ -1,0 +1,7 @@
+# ninja log v5
+0	17	1707123804288616299	CMakeFiles/Socket_Programming.dir/socketclient/main.c.o	713044b356cbb7eb
+17	29	1707123804300616141	Socket_Programming	228d0a077590dee3
+0	21	1707123830888267675	CMakeFiles/Socket_Programming.dir/socketclient/main.c.o	713044b356cbb7eb
+21	37	1707123830908267415	Socket_Programming	228d0a077590dee3
+0	21	1707123990858217728	CMakeFiles/Socket_Programming.dir/socketclient/main.c.o	713044b356cbb7eb
+21	34	1707123990878217475	Socket_Programming	228d0a077590dee3
